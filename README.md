@@ -79,4 +79,9 @@ This dataset comes from Kaggle:
 
 https://www.kaggle.com/datasets/manjunathtl/layoffs/data
 
+---
+
+## 📬 Contact
+Created by **Menna Hisham**  
+https://www.linkedin.com/in/menna-hesham-1213a1159/
 
